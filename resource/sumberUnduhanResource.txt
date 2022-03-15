@@ -1,0 +1,49 @@
+Sumber Unduhan Resources
+
+Gambar Model=
+model 1 =
+https://unsplash.com/photos/2EGNqazbAMk
+model 2 =
+https://unsplash.com/photos/BrBSlunG0KI
+model 3 =
+https://unsplash.com/photos/PK_t0Lrh7MM
+
+Ilustrasi Petani=
+https://www.freepik.com/free-vector/farmers-using-agricultural-technology-vector_16340308.htm#page=1&query=farmer&position=4&from_view=search
+
+Ilustrasi Peta Indonesia= 
+https://www.vecteezy.com/vector-art/2550841-doodle-map-of-indonesia-with-states
+
+Ilustrasi Biji-bijian=
+https://www.flaticon.com/free-icon/sprout_628297?term=sprout&page=1&position=2&page=1&position=2&related_id=628297&origin=search
+
+Icon flaticon=
+icon upgrade: https://www.flaticon.com/free-icon/upgrade_5207484?term=upgrade&page=1&position=15&page=1&position=15&related_id=5207484&origin=search
+icon teamwork: https://www.flaticon.com/free-icon/united_1534959?term=teamwork&page=1&position=15&page=1&position=15&related_id=1534959&origin=search
+icon chat: https://www.flaticon.com/free-icon/chat_610413?term=chat&page=1&position=34&page=1&position=34&related_id=610413&origin=search
+
+Icon dari iconify=
+icon disini bukanlah icon yang bisa saya unduh dan nanti dimasukkan manual, sistem pakainya harus pakai element sendiri jadi di file ini tak ada bentuknya tapi nanti akan ada di web saya
+-drone: 
+ <span class="iconify" data-icon="carbon:drone"></span>
+ https://icon-sets.iconify.design/carbon/drone/
+
+-uang:
+ <span class="iconify" data-icon="dashicons:money-alt"></span>
+ https://icon-sets.iconify.design/dashicons/money-alt/
+
+-kacamata hitam:
+ <span class="iconify" data-icon="bi:sunglasses"></span>
+ https://icon-sets.iconify.design/bi/sunglasses/
+
+font=
+Poppins: https://fonts.google.com/specimen/Poppins?query=popp
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap');
+
+color=
+#FFF9F3
+#35c832
+#FFFBF6
+
+info
+#FFEFDE
